@@ -32,7 +32,7 @@ ps:这节课的内容挺多的。
 
 `!!`(bangbang)会将上条命令显示在命令行
 
-
+![](https://github.com/coderhare/missing-semester-2020exersices/blob/main/images/屏幕快照%202021-02-18%20下午11.19.53.png)
 
 在shell中可做逻辑运算,同样遵循「短路连通」的规则
 
