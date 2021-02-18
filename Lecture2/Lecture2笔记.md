@@ -1,6 +1,4 @@
-# "Lecture2:notes
 
-## Shell tools and scripting
 
 ps:这节课的内容挺多的。
 
