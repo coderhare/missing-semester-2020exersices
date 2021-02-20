@@ -28,7 +28,7 @@ ps:这节课的内容挺多的。
 
 `!!`(bangbang)会将上条命令显示在命令行
 
-[![img](https://github.com/coderhare/missing-semester-2020exersices/raw/main/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-02-18%20%E4%B8%8B%E5%8D%8811.19.53.png)](https://github.com/coderhare/missing-semester-2020exersices/blob/main/images/屏幕快照 2021-02-18 下午11.19.53.png)
+![img](https://github.com/coderhare/missing-semester-2020exersices/raw/main/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202021-02-18%20%E4%B8%8B%E5%8D%8811.19.53.png)
 
 
 
