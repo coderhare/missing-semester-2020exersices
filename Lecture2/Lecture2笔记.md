@@ -120,7 +120,8 @@ rg -t py 'import request' #寻找文件中含 "import request"的py文件
 
 `fzf`是一个模糊搜索的工具，用法较麻烦
 
-如果你是在 `zsh`的环境下，可以安装 `oh-my-zsh`,上面有不少有用的插件可以安装
+如果你是在 `zsh`的环境下，可以安装 `oh-my-zsh`,上面有不少有用的插件可以安装，比如说历史使用的命令提示
+![img](https://github.com/coderhare/missing-semester-2020exersices/blob/main/images/自动补全.png)
 
 ## 提到的一些有用的工具：
 
