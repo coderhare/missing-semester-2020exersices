@@ -4,7 +4,7 @@
 
 
 
-### [Lecture2： shell commands and tools](https://github.com/coderhare/missing-semester-2020exersices/tree/main/Lecture2)
+### [Lecture2：shell commands and tools](https://github.com/coderhare/missing-semester-2020exersices/tree/main/Lecture2)
 
 
 
