@@ -92,10 +92,10 @@ convert image.{png, jpg} #将扩展为convert image.png image.jpg
 
 ```shell
 #course中提到的例子
-find . -mtime -1 //mtime为modify time，修改时间， 此处参数为1即一天
-find . -name src -type d //.表示当前目录,即为当前目录下使用find; name，type为查找的参数
-find . -path '**/test/*.py' -type f //**表示0及以上个目录，语句的功能为查找test目录下的py文件
-find . -name "*.tmp" -exec rm {} \;  //找到符合条件的文件后执行rm命令，分号标志结束
+find . -mtime -1 #mtime为modify time，修改时间， 此处参数为1即一天
+find . -name src -type d #.表示当前目录,即为当前目录下使用find; name，type为查找的参数
+find . -path '**/test/*.py' -type f #**表示0及以上个目录，语句的功能为查找test目录下的py文件
+find . -name "*.tmp" -exec rm {} \;  #找到符合条件的文件后执行rm命令，分号标志结束
 
 #可install fd，功能类似find，默认使用正则表达式
 ```
