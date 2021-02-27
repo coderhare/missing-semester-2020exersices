@@ -6,17 +6,17 @@
 
 #### **vim的五种基本模式：**
 
-- **normal：**不同于一般的文本编辑器，在普通模式下，主要进行移动光标和删除文本，拷贝粘贴文本等操作而非直接编辑文本
+- normal：不同于一般的文本编辑器，在普通模式下，主要进行移动光标和删除文本，拷贝粘贴文本等操作而非直接编辑文本
 
-- **insert：**在此模式下进行文本编辑，就跟正常的打字情境一样。
+- insert：在此模式下进行文本编辑，就跟正常的打字情境一样。
 
-- **replace：**用于替换文本
+- replace：用于替换文本
 
-- **visual：**用于选择文本块
+- visual：用于选择文本块
 
-- **comman-line：**使用命令行来进行操作
+- comman-line：使用命令行来进行操作
 
-  ![vim基本模式切换](/Users/wocaibujiaoquanmei/Desktop/markdown文稿/missing-semester-2020exersices/vim基本模式切换.jpg)
+  ![vim基本模式切换](https://github.com/coderhare/missing-semester-2020exersices/blob/main/images/vim%E5%9F%BA%E6%9C%AC%E6%A8%A1%E5%BC%8F%E5%88%87%E6%8D%A2.jpg)
 
 ## 模式的切换及使用
 
@@ -114,7 +114,7 @@
 
 原视频中并没有展开介绍vim的标签页，vim的标签页对于使用vim的操作性而言是很有用的，如图为editors.md的两个标签页 ，使用`tabnew editors.md`
 
-![屏幕快照 2021-02-27 下午3.02.11](/Users/wocaibujiaoquanmei/Desktop/屏幕快照 2021-02-27 下午3.02.11.png)
+![屏幕快照 2021-02-27 下午3.02.11](https://github.com/coderhare/missing-semester-2020exersices/blob/main/images/vim%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B.png)
 
 
 
