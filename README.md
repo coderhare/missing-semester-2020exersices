@@ -8,3 +8,4 @@
 
 
 
+### [Lecture3: vim](https://github.com/coderhare/missing-semester-2020exersices/tree/main/Lecture3)
