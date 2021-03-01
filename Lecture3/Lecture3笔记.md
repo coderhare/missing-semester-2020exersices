@@ -16,7 +16,7 @@
 
 - comman-line：使用命令行来进行操作
 
-  ![vim基本模式切换](https://github.com/coderhare/missing-semester-2020exersices/blob/main/images/vim%E5%9F%BA%E6%9C%AC%E6%A8%A1%E5%BC%8F%E5%88%87%E6%8D%A2.jpg)
+  ![vim基本模式切换](https://github.com/coderhare/missing-semester-2020exersices/blob/main/images/vim基本模式切换.jpeg)
 
 ## 模式的切换及使用
 
