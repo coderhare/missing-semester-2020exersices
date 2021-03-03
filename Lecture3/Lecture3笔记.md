@@ -14,7 +14,7 @@
 
 - visual：用于选择文本块
 
-- comman-line：使用命令行来进行操作
+- command-line：使用命令行来进行操作
 
   ![vim基本模式切换](https://github.com/coderhare/missing-semester-2020exersices/blob/main/images/vim基本模式切换.jpeg)
 
