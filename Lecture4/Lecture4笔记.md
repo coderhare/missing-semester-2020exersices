@@ -102,8 +102,8 @@ convert A.png A.jpg #将png文件转换为jpg文件
 此外，`convert`还支持不同参数实现不同功能，如
 
 ```bash
-convert -resize 50%x50% A.jpg B.jpg #按比例缩小为原来的1/4
-convert -rotate 90 A.jpg B.jpg      #顺时针旋转90°
-convert -monochrome A.jpg B.jpg			#将图片变为黑白
+convert -resize 50%x50% A.jpg B.jpg   #按比例缩小为原来的1/4
+convert -rotate 90 A.jpg B.jpg        #顺时针旋转90°
+convert -monochrome A.jpg B.jpg	      #将图片变为黑白
 ```
 
