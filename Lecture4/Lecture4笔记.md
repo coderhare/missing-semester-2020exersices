@@ -87,7 +87,7 @@ cat test.txt | sort | uniq -c| tail -n10 | awk '$1 != 8 {print $1}'| gnuplot -p 
 
 效果如图
 
-![](/Users/wocaibujiaoquanmei/Markdown/missing-semester-2020exercises/gnuplot使用示例.png)
+![gnuplot使用示例](https://github.com/coderhare/missing-semester-2020exersices/blob/main/images/gnuplot%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B.png)
 
 但事实上， `gnuplot`能绘制多种函数的图像，用法也比较多。
 
