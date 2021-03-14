@@ -42,6 +42,8 @@ cat test.txt | grep "aaa" # 匹配test.txt中含"aaa"子串的字符串
 cat test.txt | grep '[A-Z]' #匹配test.txt中含字符'A~Z'的字符串
 
 cat test.txt | awk {print $2} #以空格为分隔符，打印每一行第二个字段
+
+perl -pe 's/.*?Disconnected from //' #在sed中无法使用'*''+''?'等来防止贪婪模式，因此课程中使用了perl
 ```
 
 习题中练习正则表达式的[网站](https://regexone.com/lesson/letters_and_digits?)，挺不错的，可以做一下。
