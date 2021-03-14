@@ -25,7 +25,7 @@ cat /usr/share/dict/words | tr "[:upper:]" "[:lower:]" | grep ".*[a].*[a].*[a].*
 
 **3. To do in-place substitution it is quite tempting to do something like `sed s/REGEX/SUBSTITUTION/ input.txt > input.txt`. However this is a bad idea, why? Is this particular to `sed`? Use `man sed` to find out how to accomplish this.**
 
-**4.Find your average, median, and max system boot time over the last ten boots. Use `journalctl` on Linux and `log show` on macOS, and look for log timestamps near the beginning and end of each boot. **
+**4. Find your average, median, and max system boot time over the last ten boots. Use `journalctl` on Linux and `log show` on macOS, and look for log timestamps near the beginning and end of each boot.**
 
 `on macos` 
 
